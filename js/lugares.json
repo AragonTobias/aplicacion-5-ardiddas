@@ -1,0 +1,72 @@
+
+
+
+[
+  {
+    "nombre": "París",
+    "descripcion": "París, la capital de Francia, es conocida por su arte, moda y cultura. La Torre Eiffel, el Museo del Louvre y la Catedral de Notre-Dame son solo algunos de sus monumentos más famosos. La ciudad también es famosa por su gastronomía y sus cafés. París es un destino turístico muy popular en todo el mundo.",
+    "precio": "1200",
+    "img": "../img/lugares/paris.jpg" 
+  },
+  {
+    "nombre": "Nueva York",
+    "descripcion": "Nueva York es una ciudad de Estados Unidos, conocida por ser un importante centro financiero, cultural y de entretenimiento. La ciudad está formada por cinco distritos: Manhattan, Brooklyn, Queens, El Bronx y Staten Island. Es famosa por sus rascacielos, como el Empire State Building y el One World Trade Center.",
+    "precio": "1500",
+    "img": "../img/lugares/newyork.jpg"
+  },
+  {
+    "nombre": "Tokio",
+    "descripcion": "Tokio es la capital de Japón y una de las ciudades más grandes del mundo. Es un importante centro económico y cultural. La ciudad combina lo antiguo y lo moderno, con templos tradicionales y rascacielos futuristas. Tokio es conocida por su gastronomía, su moda y su vida nocturna.",
+    "precio": "1800",
+    "img": "../img/lugares/tokio.jpg"
+  },
+  {
+    "nombre": "Londres",
+    "descripcion": "Londres es la capital de Inglaterra y del Reino Unido. Es una ciudad global, con una influencia significativa en la cultura, la política, la economía y el entretenimiento. Londres es famosa por sus monumentos históricos, como el Big Ben, el Palacio de Buckingham y la Torre de Londres.",
+    "precio": "1300",
+    "img": "../img/lugares/londres.jpg"
+  },
+  {
+    "nombre": "Roma",
+    "descripcion": "Roma es la capital de Italia y una de las ciudades más antiguas del mundo. Es famosa por su historia, su arquitectura y su arte. La ciudad es un importante centro turístico, con atracciones como el Coliseo, la Ciudad del Vaticano y la Fontana di Trevi.",
+    "precio": "1100",
+    "img": "../img/lugares/roma.jpg"
+  },
+  {
+    "nombre": "Sídney",
+    "descripcion": "Sídney es la ciudad más grande de Australia y un importante centro financiero y cultural. Es famosa por su Ópera, su puente y sus playas. Sídney es un destino turístico muy popular, con una gran variedad de atracciones, restaurantes y tiendas.",
+    "precio": "1400",
+    "img": "../img/lugares/sidney.jpg"
+  },
+  {
+    "nombre": "Dubai",
+    "descripcion": "Dubai es una ciudad de los Emiratos Árabes Unidos, conocida por su lujo, sus rascacielos y sus centros comerciales. El Burj Khalifa, el edificio más alto del mundo, se encuentra en Dubai. La ciudad también es famosa por sus playas y su vida nocturna.",
+    "precio": "1600",
+    "img": "../img/lugares/dubai.jpg"
+  },
+  {
+    "nombre": "Berlín",
+    "descripcion": "Berlín es la capital de Alemania y una de las ciudades más importantes de Europa. Es conocida por su historia, su cultura y su vida nocturna. Berlín es famosa por sus monumentos, como la Puerta de Brandeburgo, el Muro de Berlín y la Isla de los Museos.",
+    "precio": "1250",
+    "img": "../img/lugares/berlin.jpg"
+  },
+  {
+    "nombre": "Barcelona",
+    "descripcion": "Barcelona es la capital de Cataluña y una de las ciudades más grandes de España. Es conocida por su arquitectura, su arte y su gastronomía. La Sagrada Familia, el Parque Güell y el Barrio Gótico son algunas de las atracciones más famosas de la ciudad.",
+    "precio": "1150",
+    "img": "../img/lugares/barcelona.jpg"
+  },
+  {
+    "nombre": "Río de Janeiro",
+    "descripcion": "Río de Janeiro es una ciudad de Brasil, famosa por su carnaval, sus playas y su Cristo Redentor. Es un importante centro turístico y cultural. Río de Janeiro es conocida por su vida nocturna, su música y su gastronomía.",
+    "precio": "1350",
+    "img": "../img/lugares/riodejaneiro.jpg"
+  },
+  {
+    "nombre": "Moscú",
+    "descripcion": "Moscú es la capital de Rusia y una de las ciudades más grandes del mundo. Es un importante centro político, económico y cultural. Moscú es famosa por sus monumentos históricos, como el Kremlin, la Plaza Roja y la Catedral de San Basilio.",
+    "precio": "1450",
+    "img": "../img/lugares/moscow.jpg"
+  }
+]
+

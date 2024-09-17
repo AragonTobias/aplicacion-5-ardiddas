@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+html{
+    font-size: 16px;
+}
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+img{
+    height: 100%;
+    width: 100%;
+   
+   
+}
+
+
+
+main {
+    background-image: url(../img/fondo_deporte.jpg);
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    
+
+    section.parteArriba {
+        height: 60%;
+        width: 100%;
+        
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        flex-direction: column;
+        padding-bottom: 2em;
+        
+
+        .frase {
+            text-align: center;
+            color: white;
+            font-size: 1.7em;
+            text-shadow: 0 0 10px black;
+            filter: drop-shadow(0 0 10px black);
+            h5{
+                font-size: 0.6em;
+            }
+        }
+
+    }
+
+    section.parteAbajo {
+        height: 40%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        color: white;
+        align-items: center;
+        padding-top: 2rem;
+        
+        .botonIniciar{
+            font-size: 1.2em;
+            width: 12rem;
+            height: 2.5rem;
+            display: flex;
+            padding-top: 0.4rem;
+            align-items: center;
+            flex-direction: column;
+            background-color: rgb(21, 88, 233);
+            border-radius: 50px 50px 50px 50px;
+            cursor: pointer;
+        }
+        .botonIniciar:hover{
+            background-color: rgb(41, 96, 248);
+        }
+    }
+}

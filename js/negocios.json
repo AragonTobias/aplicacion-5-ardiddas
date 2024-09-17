@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Business Hub",
+        "img": "./img/bunisses_hub.jpg",
+        "descripcion": "Espacio de coworking con salas de reuniones y áreas de trabajo compartidas.",
+        "precio": "20"
+    },
+    {
+        "nombre": "Tech Center",
+        "img": "../img/tech_center.jpg",
+        "descripcion": "Centro de innovación con tecnología de vanguardia y oficinas privadas.",
+        "precio": "35"
+    },
+    {
+        "nombre": "WorkSpace",
+        "img": "../img/workspace.jpg",
+        "descripcion": "Espacio de trabajo flexible con acceso 24/7 y servicios de oficina.",
+        "precio": "25"
+    },
+    {
+        "nombre": "Creative Space",
+        "img": "../img/creative_space.jpg",
+        "descripcion": "Centro creativo para freelancers y startups con ambientes inspiradores.",
+        "precio": "30"
+    }
+]

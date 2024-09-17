@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.notifications-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: rgba(255, 255, 255, 0.6);
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    z-index: 1000;
+    backdrop-filter: blur(8px); 
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+a{
+    text-decoration: none; ;
+}
+.notifications-container {
+    padding: 20px;
+    background: url('../img/fotoNotificaciones.png') no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    overflow-y: auto;
+}
+
+.notification-card {
+    background: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.notification-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.notification-content {
+    flex: 1;
+}
+
+.notification-date {
+    font-size: 12px;
+    color: grey;
+    margin-bottom: 5px;
+}
+
+.notification-content p {
+    margin: 0;
+}
+
+nav {
+    width: 80%;
+    height: 4rem;
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    position: fixed;
+    align-items: center;
+    left: 2.5rem;
+    bottom: 1.5rem;
+    justify-content: space-around;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px black;
+}
+
+.iconosNav {
+    background-color: rgb(236, 236, 236);
+    color: grey;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

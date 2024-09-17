@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="../css/paginaPrincipal.css">
+    <title>Pagina Inicial</title>
+</head>
+
+<body>
+    <section class="partePrincipal">
+        <div class="titulo">
+            <span class="material-symbols-outlined marcar iconoSetting">menu</span> TripWayo
+        </div>
+        <div class="buscador">
+            <input type="text" class="inputBuscar" id="searchInput" placeholder="Search Here">
+            <span class="material-symbols-outlined iconoBuscar">search</span>
+        </div>
+        <div class="contenedorIconos">
+            <article class="sombreado1"><span class="material-symbols-outlined color1">travel</span></article>
+            <article class="sombreado2"><span class="material-symbols-outlined color2">hotel</span></article>
+            <article class="sombreado3"><span class="material-symbols-outlined color3">directions_subway</span></article>
+            <article class="sombreado4"><span class="material-symbols-outlined color4">directions_car</span></article>
+        </div>
+
+        <main class="contenedorCards" id="contenedorCards">
+            <div class="tituloCards"> Destinos Populares <h5>Ver Todo</h5></div>
+            <div class="cards" id="cards"></div>
+
+            <div class="contenedorCards">
+                <div class="tituloCards"> Hotelerías Populares <h5>Ver Todo</h5></div>
+                <div class="cards" id="hoteles" style="margin-bottom: 2em;"></div>
+            </div>
+        </main>
+    </section>
+
+    <nav class="navIcons">
+        <a href="../views/paginaPrincipal.html" class="iconosNav material-symbols-outlined">home</a>
+        <a href="../views/negocios.html" class="iconosNav material-symbols-outlined">business_center</a>
+        <a href="../views/notificaciones.html" class="iconosNav material-symbols-outlined">notifications</a>
+        <a href="../views/perfil.html" class="iconosNav material-symbols-outlined">person</a>
+    </nav>
+    <script src="../js/leerLugares.js"></script>
+    <script src="../js/leerHoteles.js"></script>
+</body>
+
+</html>

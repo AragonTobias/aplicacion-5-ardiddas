@@ -1,0 +1,62 @@
+[
+    {
+      "nombre": "Hotel Sol",
+      "descripcion": "Un acogedor hotel cerca de la playa.",
+      "img": "../img/hoteles/hotelSol.jpg",
+      "precio": 100
+    },
+    {
+      "nombre": "Hotel Luna",
+      "descripcion": "Un hotel moderno en el centro de la ciudad.",
+      "img": "../img/hoteles/hotelLuna.jpg",
+      "precio": 150
+    },
+    {
+      "nombre": "Hotel Estrella",
+      "descripcion": "Un hotel de lujo con vistas al mar.",
+      "img": "../img/hoteles/hotelEstrella.jpg",
+      "precio": 200
+    },
+    {
+      "nombre": "Hotel Montaña",
+      "descripcion": "Un hotel rústico en las montañas.",
+      "img": "../img/hoteles/hotelMontaña.jpg",
+      "precio": 120
+    },
+    {
+      "nombre": "Hotel Río",
+      "descripcion": "Un hotel familiar junto al río.",
+      "img": "../img/hoteles/hotelRio.jpg",
+      "precio": 80
+    },
+    {
+      "nombre": "Hotel Jardín",
+      "descripcion": "Un hotel rodeado de hermosos jardines.",
+      "img": "../img/hoteles/hotelJardin.jpg",
+      "precio": 90
+    },
+    {
+      "nombre": "Hotel Ciudad",
+      "descripcion": "Un hotel práctico para viajeros de negocios.",
+      "img": "../img/hoteles/hotelCiudad.jpg",
+      "precio": 110
+    },
+    {
+      "nombre": "Hotel Playa",
+      "descripcion": "Un hotel todo incluido en la playa.",
+      "img": "../img/hoteles/hotelPlaya.jpg",
+      "precio": 250
+    },
+    {
+      "nombre": "Hotel Oasis",
+      "descripcion": "Un hotel con piscina y spa.",
+      "img": "../img/hoteles/hotelOasis.jpg",
+      "precio": 180
+    },
+    {
+      "nombre": "Hotel Boutique",
+      "descripcion": "Un hotel pequeño y encantador con estilo.",
+      "img": "../img/hoteles/hotelUltimo.jpg",
+      "precio": 160
+    }
+  ]
