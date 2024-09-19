@@ -6,9 +6,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url(../img/viewRegister.png);
+    background-color: #6386ad7e;
+    /* background-image: url(../img/fondo_deporte.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 a{
     text-decoration: none;

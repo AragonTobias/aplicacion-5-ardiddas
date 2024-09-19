@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="fotoCard"><img src="${e.img}" alt="${e.nombre}"/></div>
                     <div class="descCard">
                         <div class="nombreLugar"><h2>${e.nombre}</h2></div>
-                        <div class="precioLugar"><h4>$${e.precio}</h4></div>
+                        <div class="precioLugar"><h4>Direccion: ${e.precio}</h4></div>
                     </div>
                 </div>
             `;
